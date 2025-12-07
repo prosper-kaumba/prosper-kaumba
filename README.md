@@ -1,92 +1,92 @@
-<h1 align="center">Hi 👋, I'm Prosper Kaumba</h1>
-<h3 align="center">Software & IT Systems Specialist</h3>
+Prosper Kaumba – Software & IT Systems Specialist
+👋 About Me
 
----
+I’m a Software & IT Systems Specialist focused on building real-world business systems. My expertise spans:
 
-### 👨‍💻 About Me  
-I’m an IT specialist focused on software development, database design, network administration, web development, computer software and hardware problem solving, and building real-world business systems.
+Software Development – PHP, MySQL, HTML, CSS, JavaScript
 
-- 💼 I build HRM systems, payroll systems, attendance tracking, dashboards, APIs, and business automation tools  
-- 🛠 Skilled in PHP, MySQL, HTML, CSS, JavaScript, networks, system troubleshooting, and IT support  
-- 🚀 Passionate about creating smart digital solutions that improve organizational efficiency  
-- 📚 Always learning and improving  
-- ✉️ Reach me: kaumbaprosper9@mail.com
+Database Design & Management
 
+Network Administration
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+Web Development
 
+Hardware & Software Troubleshooting
 
-## 💻 Tech Stack & Tools
+Building Complete Business Systems (HRM, Payroll, etc.)
 
-### **Languages & Frameworks**
-<p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+I create solutions that help organizations automate processes, improve efficiency, and maintain accurate records.
 
-### **Databases & Tools**
-<p>
-<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+🚀 Featured Projects
+1. HRM System (Human Resource Management System)
 
-### **Networking & Systems**
--network configurations
-- Network Administration  
-- IT Support  
-- Hardware & Software Troubleshooting  
-- System Design & Infrastructure Setup  
+A comprehensive system for managing all HR operations.
 
+Features:
 
-## 🚀 Featured Projects
+Employee records management
 
-### 🔹 **HRM System (Human Resource Management System)**
-A complete HR system with:
-- Attendance tracking  
-- Employee management  
-- Payroll calculations  
-- Leave management  
-- Reports, dashboards & email notifications  
+Attendance and leave tracking
 
+Payroll processing and payslip generation
 
-### 🔹 **Payroll Management System**
-Features include:
-- Automated salary calculations  
-- Allowances, deductions, PAYE, NAPSA EE, NHIS, health risk, health shift  
-- Payslip generation  
-- Email salary slips  
-- Monthly summaries  
+Job recruitment and application management
 
-🔗 *Repository coming soon*
+Reports dashboard with PDF & Excel export
 
+Email notifications for payroll and leave updates
 
+Role-based access (Admin, HR, Employee)
 
-## 📊 GitHub Stats
+Technologies: PHP, MySQL, HTML, CSS, JavaScript, Bootstrap
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prosper-kaumba&show_icons=true&theme=tokyonight" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosper-kaumba&layout=compact&theme=tokyonight" height="180px"/>
-</p>
+Repository: HRM System
 
+2. Payroll System
 
+A robust payroll solution integrated with attendance and leave management.
 
-## ⭐ My Goals
-- Build more real-world systems (HR, payroll, tracking, e-commerce, APIs)  
-- Grow into a full systems architect  
-- Improve cybersecurity, Linux & cloud knowledge  
-- Keep developing and learning every day  
+Features:
 
+Detailed salary components (basic, bonuses, deductions, taxes, allowances)
 
+Automatic payslip generation
 
-### ✨ Thank you for visiting my profile!  
-Feel free to explore my repositories and follow my journey.
+Email notifications to employees after salary processing
+
+Search and update payroll by employee ID
+
+Transport, housing, health, and insurance allowances included
+
+Technologies: PHP, MySQL
+
+Repository: Payroll System
+
+3. Other Projects
+
+Employee Leave Tracker – Streamlines leave application and approval process
+
+Job Application Dashboard – Handles candidate uploads and admin management
+
+Attendance Tracker – Monitors employee attendance and calculates monthly summaries
+
+(You can add links to these repositories if they are on GitHub.)
+
+📂 Portfolio Highlights
+
+Real-world business systems built end-to-end
+
+Fully functional PHP & MySQL projects
+
+Clear, documented code for easy understanding
+
+Demonstrated ability to integrate multiple modules (HR, Payroll, Attendance, Leaves)
+
+💼 Contact Me
+
+Email: kaumbaprosper9@mail.com
+
+LinkedIn: linkedin.com/in/prosper-kaumba
+
+GitHub: github.com/prosper-kaumba
 
