@@ -1,4 +1,3 @@
-Prosper Kaumba – Software & IT Systems Specialist
 👋 About Me
 
 I’m a Software & IT Systems Specialist focused on building real-world business systems. My expertise spans:
